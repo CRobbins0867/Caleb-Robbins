@@ -1,19 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to My Page
 
-You can use the [editor on GitHub](https://github.com/CRobbins0867/Caleb-Robbins/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Welcome to My Page
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## About me 
+- I am a coder that works with all types of languages. 
 
-```markdown
-Syntax highlighted code block
+- I also LOVE coding mod menus for pc games (Minecraft, Fortnite etc.)
 
-# Header 1
-## Header 2
-### Header 3
+
+
 
 - Bulleted
 - List
