@@ -29,11 +29,11 @@
     </head>
     <body>
   
-   <div style="text-align: center;"><iframe data-aa="1561799" src="//ad.a-ads.com/1561799?size=728x90" scrolling="no" style="width:728px; height:90px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe></div>
-        <div id="about"> <h1 align="center">About Me!</h1>
+  <div id="about"> <h1 align="center">About Me!</h1>
   
-  <ol> 
- I am a coder that works with all types of languages.
+ <h1>
+
+I am a coder that works with all types of languages.
 
 
 I LOVE coding mod menus for pc games (Minecraft, Fortnite etc.)
@@ -44,7 +44,6 @@ Going to school for Master of Computer Science (MCS)
 
 Have made multiple website for Computer Science facts
 
-
-  
+</h1>
   
 
